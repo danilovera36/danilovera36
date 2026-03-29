@@ -12,11 +12,14 @@
 
 ## 🏆 Certificaciones
 
-| Certificación | Issuer |
-|---------------|--------|
-| AWS Solutions Architect Associate SAA-C03 | Amazon Web Services |
-| Certified Kubernetes Administrator (CKA) | Cloud Native Computing Foundation |
-| HashiCorp Terraform Associate | HashiCorp |
+| Certificación | Issuer | Verificación |
+|---------------|--------|-------------|
+| [AWS Solutions Architect](https://platzi.com/certificates/verify/7ea1db37-a447-46da-8dd9-6a4fbba5f9d4) | Platzi - Dic 2023 | [Ver](https://platzi.com/certificates/verify/7ea1db37-a447-46da-8dd9-6a4fbba5f9d4) |
+| [Serverless Framework AWS](https://platzi.com/certificates/verify/c688cfda-bc72-4ea4-bd9a-e8e135a47f33) | Platzi - Oct 2023 | [Ver](https://platzi.com/certificates/verify/c688cfda-bc72-4ea4-bd9a-e8e135a47f33) |
+| [DevOps Professional](https://platzi.com/certificates/verify/b45c9999-8fb0-4d79-9824-01a997041244) | Platzi - Feb 2023 | [Ver](https://platzi.com/certificates/verify/b45c9999-8fb0-4d79-9824-01a997041244) |
+| [Docker & Kubernetes](https://coursera.org/verify/PQNBV6JYL3W4) | Coursera - Oct 2022 | [Ver](https://coursera.org/verify/PQNBV6JYL3W4) |
+| [Linux Fundamentals](https://coursera.org/verify/5c7d9993dca802dd29ea4baaca605620) | Coursera - Sept 2022 | [Ver](https://coursera.org/verify/5c7d9993dca802dd29ea4baaca605620) |
+| [Google IT Support Cert](https://coursera.org/verify/PPBGLUZ376K7) | Coursera - Sept 2021 | [Ver](https://coursera.org/verify/PPBGLUZ376K7) |
 
 ## 🛠️ Tech Stack
 
